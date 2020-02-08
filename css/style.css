@@ -1,0 +1,39 @@
+
+body{
+    color: crimson;
+    background-color: darkgray;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:480px)and (max-width :500px){
+    body{
+        background-color: brown;
+        color: red;
+
+
+
+
+    }
+    
+        
+
+
+
+    }
+
+
+
+
+
+
+}
